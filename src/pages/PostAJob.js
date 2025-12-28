@@ -140,7 +140,7 @@ export default function PostAJob() {
         </div>
 
         <div className="mb-3">
-          <label>Qualifications (comma separated):</label>
+          <label>Qualifications:</label>
           <input
             type="text"
             name="qualifications"
